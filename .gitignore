@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+
+dist
+build
+.idea
+.babel-cache
+lib
+.npmrc
